@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u043B\u0435\u0440\u0430\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442 11\\pr11_Trembach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0FCEE6-B96E-4350-B044-3209E1475E49}|pr11_Trembach\\pr11_Trembach.vcxproj|C:\\Users\\\u043B\u0435\u0440\u0430\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442 11\\pr11_Trembach\\pr11_Trembach\\pr11_Trembach.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B0FCEE6-B96E-4350-B044-3209E1475E49}|pr11_Trembach\\pr11_Trembach.vcxproj|solutionrelative:pr11_Trembach\\pr11_Trembach.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pr11_Trembach.cpp",
+              "DocumentMoniker": "C:\\Users\\\u043B\u0435\u0440\u0430\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442 11\\pr11_Trembach\\pr11_Trembach\\pr11_Trembach.cpp",
+              "RelativeDocumentMoniker": "pr11_Trembach\\pr11_Trembach.cpp",
+              "ToolTip": "C:\\Users\\\u043B\u0435\u0440\u0430\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442 11\\pr11_Trembach\\pr11_Trembach\\pr11_Trembach.cpp",
+              "RelativeToolTip": "pr11_Trembach\\pr11_Trembach.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAO8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-20T09:33:09.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

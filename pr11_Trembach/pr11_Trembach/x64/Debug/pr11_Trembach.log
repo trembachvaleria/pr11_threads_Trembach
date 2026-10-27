@@ -1,0 +1,4 @@
+﻿  pr11_Trembach.cpp
+C:\Users\лера\OneDrive\Desktop\Практ 11\pr11_Trembach\pr11_Trembach\pr11_Trembach.cpp(107,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\лера\OneDrive\Desktop\Практ 11\pr11_Trembach\pr11_Trembach\pr11_Trembach.cpp(117,18): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+  pr11_Trembach.vcxproj -> C:\Users\лера\OneDrive\Desktop\Практ 11\pr11_Trembach\x64\Debug\pr11_Trembach.exe
